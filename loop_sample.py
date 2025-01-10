@@ -1,3 +1,4 @@
+#this is a program that collects questions and answers
 import random
 
 questions = []
